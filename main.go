@@ -13,7 +13,7 @@ fmt.Println("Hello" == "World")
 fmt.Println("Hello" == "Hello")
 
 var a int = 22
-const b int =21
+const b int =22
 fmt.Println(a)
 fmt.Println(b)
 }
