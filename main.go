@@ -20,6 +20,8 @@ fmt.Println("Hello" == "Hello")
 //variables vs constants
 var a int = 22
 const b int =22
+var grade rune = 'A+'
+var name, city string = "Ashraful", "Cumilla"
 fmt.Println(a)
 fmt.Println(b)
 }
